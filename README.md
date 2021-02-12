@@ -6,6 +6,6 @@ Du skal ikke lave en aflevering på api-assignment, men udelukkende på dette op
 
 * Opgavebeskrivelsen findes i den vedlagte pdf
 * Layoutet findes i den vedlagte fil "layout.jpg".
-* Foreningen for Dyrevelfærds logo er vedlagti filen  "logo.png".
+* Foreningen for Dyrevelfærds logo er vedlagt i filen  "logo.png".
 
 **God Arbejdslyst!**
